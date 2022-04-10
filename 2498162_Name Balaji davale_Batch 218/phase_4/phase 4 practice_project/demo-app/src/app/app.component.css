@@ -1,0 +1,13 @@
+h2 {
+    background-color: aqua;
+}
+
+p {
+    font-size: medium;
+}
+
+div {
+    text-align: center;
+    background-color: brown;
+    font-size-adjust: 20px;
+}
